@@ -1,0 +1,1 @@
+{"title":"Example Push Notification Title", "message":"Example Push Notificaton Message", "actions":{"defaultAction":"http://www.example.com","action1":"http://localhost:8888/PushNotificationTest/action1.html","action2":"http://localhost:8888/PushNotificationTest/action2.html"}, "image":"green.jpg"}
