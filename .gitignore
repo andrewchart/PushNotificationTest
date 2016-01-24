@@ -1,0 +1,4 @@
+msgs/*.json
+
+!.gitignore
+!example.json
